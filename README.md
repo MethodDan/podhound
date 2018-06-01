@@ -1,4 +1,4 @@
-# podhurd podcast manager
+# podhound podcast manager
 
 PROJECT STATUS: Barely started -- as of 30/05/2018
 
