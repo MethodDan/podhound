@@ -25,7 +25,7 @@ SECRET_KEY = '_el9qkrp40+)pn_2ho*o9t_ahoe$yx6bt_edtax3zf+oa8ulxf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.44','podhurd']
+ALLOWED_HOSTS = ['127.0.0.1','podhurd']
 
 
 # Application definition
